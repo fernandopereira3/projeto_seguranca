@@ -1,5 +1,7 @@
 RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
-Data: [data de início do projeto] Empresa: Abstergo Industries Responsável: [nome do responsável pelo projeto]
+Data: imediata 
+Empresa: Abstergo Industries 
+Responsável: fernando augusto pereira
 
 Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
